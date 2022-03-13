@@ -1,0 +1,7 @@
+- Extract.py: for extarcting features from fma_small/fma_small audio files to numpy files 
+  in precalulated_files_mel/fma_numpy
+- Multiprocimg.py: Extracted numpy files to greyscale RGBA plots in precalulated_files_mel/fma_numpy to precalculated_files_mel/fma_single
+- Exploretracks.ipynb: To extract meta data of songs and make subset samplespace and save as 
+  samplespace.csv
+- Makesamplespace.ipynb: To extract mels spectograms from precalculated_files_mel/fma_single and move 
+  samplespace subset to precalculated_files_mel/samplespace after converting to greyscale image
