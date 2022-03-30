@@ -1,0 +1,8 @@
+__pycache__
+.ipynb_checkpoints/*
+test.png
+makeimg.ipynb
+x_test.npy
+x_train.npy
+y_test.npy
+y_train.npy
